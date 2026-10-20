@@ -14,4 +14,4 @@ Modifications: removed title/reference blocks, ATOMS/MASS sections, and CHARMM s
 **Additional note**
 In some cases, when loading a .psf file into EasyHybrid, might be of interest to delete the AUTOG flag at the top and the AUTOGEN section at the end of the file. 
 
-`.crd` files should be converted to `.xyz` via VMD (for example) to avoid some weird conflict with AMBER parser?
+CHARMM `.crd` files should be converted to `.xyz` via VMD (for example) to avoid some weird conflict with the AMBER parser?
