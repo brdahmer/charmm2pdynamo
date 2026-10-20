@@ -9,4 +9,4 @@ plus MHET dihedral parameters, which can serve as a template for ligand paramete
 - par_water_ions_pd.str: water and ions, reduced to parameter sections
 - par_mhe_pd.prm: MHET dihedrals
 
-Only formatting was changed, removed title/reference blocks, ATOMS/MASS sections, and CHARMM scripting lines for the parser
+Modifications: removed title/reference blocks, ATOMS/MASS sections, and CHARMM scripting lines for the parser
